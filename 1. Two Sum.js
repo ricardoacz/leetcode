@@ -47,3 +47,5 @@ var twoSum = function(nums, target) {
         numsToIndex.set(nums[i], i)
     }
 };
+
+// Number of times solved: 2
